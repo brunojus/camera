@@ -62,12 +62,12 @@ class _LoginPageState extends State<LoginPage>  {
             children: <Widget>[
               Padding(
                 padding: EdgeInsets.only(top:20.0),
-                // child: Image.asset('assets/images/efs.png'),
+                //child: Image.asset('assets/images/efs.png'),
               ),
               Expanded(
                 child: Container(),
               ),
-              // Image.asset('assets/images/efs.png')
+              //Image.asset('assets/images/efs.png')
             ],
           ),
           SingleChildScrollView(

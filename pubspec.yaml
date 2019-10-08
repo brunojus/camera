@@ -57,6 +57,7 @@ flutter:
 
   assets:
    - assets/
+   - assets/images/efs.png
 
   fonts:
     - family: MyFlutterApp
